@@ -4,13 +4,11 @@
 ## Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
 </p>
 
 ## Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-005571?style=flat-square&logo=Hadoop&logoColor=white" />
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white" />
 </p>
@@ -36,9 +34,6 @@
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white" />
   <img src="https://img.shields.io/badge/Mattermost-0072C6?style=flat-square&logo=Mattermost&logoColor=white" />
 </p>
-
-## 🎨 Hobbies
-🎮 Gaming | 🧗‍♂️ Climbing
 
 ## 📦 Projects
 - **Project A**: Description about this project. [🔗](#)
