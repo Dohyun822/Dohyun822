@@ -35,11 +35,5 @@
   <img src="https://img.shields.io/badge/Mattermost-0072C6?style=flat-square&logo=Mattermost&logoColor=white" />
 </p>
 
-## 📦 Projects
-- **Project A**: Description about this project. [🔗](#)
-- **Project B**: Description about this project. [🔗](#)
-
-
-![Dohyun822's GitHub stats](https://github-readme-stats-git-master-dohyun822.vercel.app/api?username=Dohyun822&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 
